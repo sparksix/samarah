@@ -1,0 +1,8 @@
+{
+  "name": "Samarah",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "1091601a"
+}
